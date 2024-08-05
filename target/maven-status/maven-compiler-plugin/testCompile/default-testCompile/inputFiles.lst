@@ -1,0 +1,11 @@
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\pageObjects\HomePage.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\pageObjects\LoginPage.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\pageObjects\RegisterPage.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\testBase\BaseClass.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\testCases\TC001_RegistrationTest.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\testCases\TC002_LoginTest.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\testCases\TC003_LoginDDTest.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\utilities\DataProviders.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\utilities\ExcelUtility.java
+C:\Users\john3\eclipse-workspace\AugVersion\src\test\java\utilities\ExtentReportManager.java

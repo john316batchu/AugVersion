@@ -1,0 +1,57 @@
+16:19:04.677 [main] INFO  testCases.TC001_RegistrationTest - *****Starting TC001_RegistrationTest*****
+16:19:04.763 [main] DEBUG testCases.TC001_RegistrationTest - This is a debug log
+16:19:05.335 [main] INFO  testCases.TC001_RegistrationTest - Clicked On MyAccount Link
+16:19:06.360 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+16:19:06.550 [main] INFO  testCases.TC001_RegistrationTest - Entering details into User Registration form
+16:19:08.937 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Continue Button
+16:19:10.098 [main] INFO  testCases.TC001_RegistrationTest - Validating User Registration Confirmation Message
+16:19:10.330 [main] INFO  testCases.TC001_RegistrationTest - Confirmation message exist...Validation passed
+16:19:10.330 [main] INFO  testCases.TC001_RegistrationTest - testcase passed
+16:19:10.931 [main] INFO  testCases.TC001_RegistrationTest - ***TC001_RegistrationTest finished***
+16:19:24.107 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+16:19:24.273 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+16:19:24.668 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+16:19:24.685 [main] INFO  testCases.TC002_LoginTest - Entering Login details
+16:19:25.557 [main] INFO  testCases.TC002_LoginTest - Validating user login
+16:19:35.654 [main] INFO  testCases.TC002_LoginTest - User login validation failed
+16:19:35.655 [main] ERROR testCases.TC002_LoginTest - Testcase failed
+10:21:20.241 [main] INFO  testCases.TC001_RegistrationTest - *****Starting TC001_RegistrationTest*****
+10:21:20.291 [main] DEBUG testCases.TC001_RegistrationTest - This is a debug log
+10:21:24.331 [main] INFO  testCases.TC001_RegistrationTest - Clicked On MyAccount Link
+10:21:27.544 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:21:31.003 [main] INFO  testCases.TC001_RegistrationTest - Entering details into User Registration form
+10:21:32.813 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Continue Button
+10:21:34.035 [main] INFO  testCases.TC001_RegistrationTest - Validating User Registration Confirmation Message
+10:21:34.200 [main] INFO  testCases.TC001_RegistrationTest - Confirmation message exist...Validation passed
+10:21:34.201 [main] INFO  testCases.TC001_RegistrationTest - testcase passed
+10:21:34.782 [main] INFO  testCases.TC001_RegistrationTest - ***TC001_RegistrationTest finished***
+10:21:56.482 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+10:21:56.716 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+10:21:57.248 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+10:21:57.919 [main] INFO  testCases.TC002_LoginTest - Entering Login details
+10:21:58.964 [main] INFO  testCases.TC002_LoginTest - Validating user login
+10:21:59.043 [main] INFO  testCases.TC002_LoginTest - User Login validation successful
+10:21:59.044 [main] INFO  testCases.TC002_LoginTest - Testcase passed
+10:21:59.044 [main] INFO  testCases.TC002_LoginTest - ***finished TC002_LoginTest***
+10:24:41.603 [main] INFO  testCases.TC001_RegistrationTest - *****Starting TC001_RegistrationTest*****
+10:24:41.611 [main] DEBUG testCases.TC001_RegistrationTest - This is a debug log
+10:24:41.865 [main] INFO  testCases.TC001_RegistrationTest - Clicked On MyAccount Link
+10:24:42.788 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link
+10:24:42.791 [main] INFO  testCases.TC001_RegistrationTest - Entering details into User Registration form
+10:24:44.136 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Continue Button
+10:24:44.774 [main] INFO  testCases.TC001_RegistrationTest - Validating User Registration Confirmation Message
+10:24:44.850 [main] INFO  testCases.TC001_RegistrationTest - Confirmation message exist...Validation passed
+10:24:44.850 [main] INFO  testCases.TC001_RegistrationTest - testcase passed
+10:24:45.332 [main] INFO  testCases.TC001_RegistrationTest - ***TC001_RegistrationTest finished***
+10:25:00.533 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+10:25:00.904 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+10:25:01.463 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+10:25:01.467 [main] INFO  testCases.TC002_LoginTest - Entering Login details
+10:25:02.681 [main] INFO  testCases.TC002_LoginTest - Validating user login
+10:25:02.746 [main] INFO  testCases.TC002_LoginTest - User Login validation successful
+10:25:02.746 [main] INFO  testCases.TC002_LoginTest - Testcase passed
+10:25:02.747 [main] INFO  testCases.TC002_LoginTest - ***finished TC002_LoginTest***
+10:27:18.709 [main] INFO  testCases.TC001_RegistrationTest - *****Starting TC001_RegistrationTest*****
+10:27:18.718 [main] DEBUG testCases.TC001_RegistrationTest - This is a debug log
+10:27:24.360 [main] INFO  testCases.TC001_RegistrationTest - Clicked On MyAccount Link
+10:27:25.208 [main] INFO  testCases.TC001_RegistrationTest - Clicked on Register Link

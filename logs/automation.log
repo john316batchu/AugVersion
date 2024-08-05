@@ -1,0 +1,14 @@
+10:27:25.212 [main] INFO  testCases.TC001_RegistrationTest - Entering details into User Registration form
+10:27:26.428 [main] INFO  testCases.TC001_RegistrationTest - Clicking on Continue Button
+10:27:27.301 [main] INFO  testCases.TC001_RegistrationTest - Validating User Registration Confirmation Message
+10:27:27.382 [main] INFO  testCases.TC001_RegistrationTest - Confirmation message exist...Validation passed
+10:27:27.382 [main] INFO  testCases.TC001_RegistrationTest - testcase passed
+10:27:27.884 [main] INFO  testCases.TC001_RegistrationTest - ***TC001_RegistrationTest finished***
+10:27:42.101 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+10:27:42.333 [main] INFO  testCases.TC002_LoginTest - Clicked on MyAccount link
+10:27:42.802 [main] INFO  testCases.TC002_LoginTest - Clicked on Login link
+10:27:42.810 [main] INFO  testCases.TC002_LoginTest - Entering Login details
+10:27:43.867 [main] INFO  testCases.TC002_LoginTest - Validating user login
+10:27:43.914 [main] INFO  testCases.TC002_LoginTest - User Login validation successful
+10:27:43.914 [main] INFO  testCases.TC002_LoginTest - Testcase passed
+10:27:43.915 [main] INFO  testCases.TC002_LoginTest - ***finished TC002_LoginTest***

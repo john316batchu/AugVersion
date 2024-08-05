@@ -1,0 +1,47 @@
+16:15:44.405 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.419 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.421 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.488 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.490 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.497 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.549 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.551 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.553 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.606 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.612 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.615 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.662 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.665 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.667 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.711 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.713 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.715 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.758 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:44.760 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:15:44.762 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:15:44.915 [main] INFO  testCases.TC003_LoginDDTest - Clicked on MyAccount link
+16:15:45.349 [main] INFO  testCases.TC003_LoginDDTest - Clicked on Login link
+16:15:45.351 [main] INFO  testCases.TC003_LoginDDTest - Entering Login details
+16:15:46.542 [main] INFO  testCases.TC003_LoginDDTest - Validating user login
+16:15:46.646 [main] INFO  testCases.TC003_LoginDDTest - User Login validation successful
+16:15:46.647 [main] INFO  testCases.TC003_LoginDDTest - Testcase passed
+16:15:47.147 [main] INFO  testCases.TC003_LoginDDTest - ***finished TC002_LoginTest***
+16:15:47.287 [main] INFO  testCases.TC003_LoginDDTest - Clicked on MyAccount link
+16:15:47.601 [main] INFO  testCases.TC003_LoginDDTest - Clicked on Login link
+16:15:47.602 [main] INFO  testCases.TC003_LoginDDTest - Entering Login details
+16:15:48.295 [main] INFO  testCases.TC003_LoginDDTest - Validating user login
+16:15:58.395 [main] INFO  testCases.TC003_LoginDDTest - login validation not successful on invalid data
+16:15:58.395 [main] INFO  testCases.TC003_LoginDDTest - ***finished TC002_LoginTest***
+16:15:58.514 [main] INFO  testCases.TC003_LoginDDTest - Clicked on MyAccount link
+16:15:59.290 [main] INFO  testCases.TC003_LoginDDTest - Clicked on Login link
+16:15:59.290 [main] INFO  testCases.TC003_LoginDDTest - Entering Login details
+16:16:01.996 [main] INFO  testCases.TC003_LoginDDTest - Validating user login
+16:16:02.053 [main] INFO  testCases.TC003_LoginDDTest - User Login validation successful
+16:16:02.054 [main] INFO  testCases.TC003_LoginDDTest - Testcase passed
+16:16:02.754 [main] INFO  testCases.TC003_LoginDDTest - ***finished TC002_LoginTest***
+16:16:02.883 [main] INFO  testCases.TC003_LoginDDTest - Clicked on MyAccount link
+16:16:03.986 [main] INFO  testCases.TC003_LoginDDTest - Clicked on Login link
+16:16:03.987 [main] INFO  testCases.TC003_LoginDDTest - Entering Login details
+16:16:05.401 [main] INFO  testCases.TC003_LoginDDTest - Validating user login
+16:16:15.502 [main] INFO  testCases.TC003_LoginDDTest - login validation not successful on invalid data
+16:16:15.502 [main] INFO  testCases.TC003_LoginDDTest - ***finished TC002_LoginTest***
